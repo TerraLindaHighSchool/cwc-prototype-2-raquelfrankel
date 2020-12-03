@@ -4694,6 +4694,7 @@ GameObject:
   - component: {fileID: 2383353323408342104}
   - component: {fileID: 2383353323418228270}
   - component: {fileID: 2383353323308051249}
+  - component: {fileID: 656009951}
   m_Layer: 0
   m_Name: Dog_RhodesianRidgeback_01
   m_TagString: Untagged
@@ -4784,6 +4785,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+--- !u!114 &656009951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2383353323408794342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5fff12471bba4bb9b0a311d5418a122, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2383353323408797284
 GameObject:
   m_ObjectHideFlags: 0
