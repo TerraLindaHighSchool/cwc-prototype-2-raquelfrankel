@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6583043264558250261}
   - component: {fileID: 6583043264559232877}
   - component: {fileID: 6583043263234460030}
-  - component: {fileID: 6583043263234460031}
+  - component: {fileID: 192395528}
   m_Layer: 0
   m_Name: Food_Bone_01
   m_TagString: Untagged
@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 6583043264561375657}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 5.4}
-  m_LocalScale: {x: 4, y: 3, z: 3}
+  m_LocalScale: {x: 2, y: 3, z: 3}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -94,7 +94,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 40
---- !u!114 &6583043263234460031
+--- !u!114 &192395528
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -103,7 +103,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 6583043264561375657}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0fafafa68d9e4f17a98f23188c59c0c, type: 3}
+  m_Script: {fileID: 11500000, guid: e5fff12471bba4bb9b0a311d5418a122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 40
